@@ -1,0 +1,1 @@
+public DateTime TimeCreated { get; } = DateTime.Now;
