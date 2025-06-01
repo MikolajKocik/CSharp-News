@@ -1,1 +1,1 @@
-The most interesting c# news 
+The most interesting c# news in a given version
